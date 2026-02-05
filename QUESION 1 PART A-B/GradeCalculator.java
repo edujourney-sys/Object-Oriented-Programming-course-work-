@@ -1,6 +1,6 @@
 package vu.gradecalculator;
 
-import java.util.Scanner; // ✅ Added import
+import java.util.Scanner; //  Added import
 
 public class GradeCalculator {
     public static void main(String[] args) {
