@@ -19,7 +19,7 @@ public class GradeSummary {
 
             // Validate score
             if (score < 0 || score > 100) {
-                System.out.println("❌ Invalid score! Please enter a value between 0 and 100.\n");
+                System.out.println(" Invalid score! Please enter a value between 0 and 100.\n");
                 continue; // ask again without increasing student count
             }
 
